@@ -1,22 +1,4 @@
 📁 OPU-Customer-Analysis
-│
-├── 📊 PowerBI
-│   └── OPU Dashboard - Customer Analysis.pbix
-│
-├── 📄 Dataset
-│   └── online_retail_II.csv
-│
-├── 🧪 SQL
-│   ├── 1_EDA.sql
-│   ├── 2_Transformation.sql
-│   └── 3_The_Last_Layer.sql  (Fact & Dimension Tables)
-│
-├── 🖼 Images
-│   ├── 1_OPU Dashboard - Customer Analysis.png
-│   ├── 2_Insights & Recommendations.png
-│   ├── 3_EDA Sample.png
-│   ├── 4_Transformation Sample.png
-│   └── 5_The Last Layer Sample.png
 
 1. Project Overview
 
